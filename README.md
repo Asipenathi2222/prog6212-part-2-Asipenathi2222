@@ -18,7 +18,7 @@ RaceDay is an event management system developed for the PROG6212 Part 2 project.
 - Session-based authentication
 - Role-protected endpoints
 - Event management
-- Category management
+- Category management 
 - Registrations
 - Results
 
