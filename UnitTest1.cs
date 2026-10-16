@@ -6,7 +6,7 @@ using RaceDay.API.Models;
 using Xunit;
 
 namespace RaceDay.API.Tests
-{
+{ 
     public class UnitTest1
     {
         // USER TESTS
